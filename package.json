@@ -1,0 +1,18 @@
+{
+  "name": "quicklinker",
+  "version": "1.0.0",
+  "description": "A shortcut creator for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Unknown-User-Dev",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.2.2",
+    "glob": "^10.3.6",
+    "gradient-string": "^2.0.2",
+    "readline-sync": "^1.4.10",
+    "which": "^4.0.0"
+  }
+}
