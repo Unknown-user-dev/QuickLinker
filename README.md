@@ -2,14 +2,14 @@
 ### A Discord Shortcut in JavaScript !
 
 <p align="center">
-  <img src="https://cdn.waifu.im/7448.jpg">
+  <img src="https://cdn.waifu.im/6264.jpg">
 </p>
 
 ```
 The QuickLinker, feat Unknown User and NotFubukIl
 ```
 
-## This project is a remade of [NotFubukIl](https://github.com/NotFubukIl) Project [(PhInjector)](https://github.com/NotFubukIl/PornhubInjector)
+## This project is a remade of [NotFubukIl](https://github.com/NotFubukIl) Project [PhInjector](https://github.com/NotFubukIl/PornhubInjector)
 ### I give all credits to [NotFubukIl](https://github.com/NotFubukIl)
 
 ### Features
